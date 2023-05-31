@@ -22,6 +22,8 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [📝 License](#license)
 
 
@@ -68,6 +70,7 @@ Here is a practical example on how you can setup and run HTML and CSS linters
 
 To get a local copy up and running, follow these steps.
 
+
 ### Prerequisites
 
 In order to run this project you need:
@@ -76,6 +79,8 @@ In order to run this project you need:
 ```sh
  npm install -y
 ```
+
+
 
 
 ### Setup
@@ -88,6 +93,7 @@ Clone this repository to your desired folder:
   git clone git@github.com:Rebelzob/Hello-Microverse-Project.git
 ```
 
+
 ### Usage
 
 To run the project, execute the following command:
@@ -96,6 +102,8 @@ To run the project, execute the following command:
 ```sh
   npm run
 ```
+
+
 
 
 
@@ -114,11 +122,16 @@ To run the project, execute the following command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
+
+> Describe 1 - 3 features you will add to the project.
+
+
 - [ ] **[new_feature_1]**
 - [ ] **[new_feature_2]**
 - [ ] **[new_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -147,4 +160,10 @@ I would like to thank my coding partners and my coach for pushing me to do bette
 
 This project is [MIT](./LICENSE) licensed.
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
